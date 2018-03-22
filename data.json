@@ -1,0 +1,48 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive oragnisation that gives a scope to enchance my knowledge and utilizing my skills towards the growth of organisation"
+  },
+  "education":[
+    {
+      "degree":"S.S.C",
+      "school":"St.John's Residential School(S.J.R.S)",
+      "data":["2012","88%"]
+    },
+    {
+      "degree":"Intermediate",
+      "school":"AndhraPradesh Residential Junior College(A.P.R.J.C)",
+      "data":["2014","87.8%"]
+    },
+    {
+      "degree":"B.Tech(C.S.E)",
+      "school":"G.Pullaiah College of Engineering And Technology(G.P.C.E.T)",
+      "data":["2015-19","60%"]
+    }
+  ],
+  "skills":[
+    {
+      "name":"Languages",
+      "info":[" R","C","JAVA","Python"]
+    },
+    {
+      "name":"Operating System",
+      "info":[" win-10","Fedora","redHat","ubuntu"]
+    },
+    {
+      "name":"Data Bases",
+      "info":[" MySql","ORACLE","mongoDB"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":[" HTML","CSS","JAVASCRIPT"]
+    },
+    {
+      "name":"FrameWorks",
+      "info":[" .Net","Bootstrap","CodeIgnitier"]
+    },
+    {
+      "name":"Libraries",
+      "info":[" Jquery"]
+    }
+  ]
+}
