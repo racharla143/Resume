@@ -1,5 +1,5 @@
 body{
-   background-image:url("body.jpg");
+   background-image:url("images/body.jpg");
 }
 table{
    width:95%;
@@ -38,6 +38,7 @@ a{
   margin:1%;
   border-radius:20px;
   border:2px solid black;
+  box-shadow: 3px 3px 3px #000;
 }
 .content{
   width:70%;
